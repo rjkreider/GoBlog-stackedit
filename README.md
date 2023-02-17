@@ -1,5 +1,5 @@
 # GoBlog-stackedit
-Integrating stackedit markdown editor in GoBlog
+Integrating stackedit markdown editor in [GoBlog](https://github.com/jlelse/GoBlog/)
 
 # Installation
 
